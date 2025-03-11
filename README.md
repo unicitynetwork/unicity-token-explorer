@@ -332,7 +332,6 @@ The implementation should follow the design direction indicated in the "Unicity 
 The application will utilize the following SDK functions:
 - `mint`: For token creation
 - `createTx`: For sending tokens
-- `importTx`: For receiving tokens
 - `exportFlow`: For exporting tokens
 - `importFlow`: For importing tokens
 - `getTokenStatus`: For checking token status
